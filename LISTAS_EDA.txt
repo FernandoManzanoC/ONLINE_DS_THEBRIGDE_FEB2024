@@ -1,0 +1,14 @@
+Lista de 3 a 5 posibles problemas que te 
+gustaría resolver usando datos (un detector de guerra, un sistema que me diga en que cubo 
+tengo que tirar la basura, etc):
+
+a. Detección de ataques epilecticos en sindrome de Dravet
+b. Falta de identificación de las empresas/startups biotecnologicas y proyectos en el area de enfermedades raras
+c. Ciberataques de ingenieria social como Pishing y vishing como evitar caer en ellos
+
+Lista de 3 a 5 posibles conjuntos de datos que te gustaría usar 
+(aunque no tengas acceso a ellos, pej: la información del tiempo y clima en el mundo en los 
+últimos 20 años, los números de la lotería en los últimos 3 años,…):
+1.Datos sobre ciberataques por clases que incluyan la ingenieria social y causas o factores del exito o fracaso del ataque
+2. Conjuntos de datos que relaciones investigaciones sobre enfermedades raras, empresas desarrollando farmacos relacionados, centros de referencia, personas de interes y otros datos al respecto
+3.
