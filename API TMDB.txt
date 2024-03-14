@@ -1,0 +1,12 @@
+https://www.themoviedb.org/settings/api
+
+API Key
+
+a94fda416540d58473bde57b1d353406
+
+API Read Access Token
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhOTRmZGE0MTY1NDBkNTg0NzNiZGU1N2IxZDM1MzQwNiIsInN1YiI6IjY1ZjJkOGY5MDZmOTg0MDE4NTQ2ZDhhOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.98PnHvs46Bcbs2AENX4t1de1u_1a_ciPtCa8th6tgBQ
+
+Petición:
+https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=es-ES&page=1&sort_by=popularity.desc&with_original_language=es'
