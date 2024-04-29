@@ -12,6 +12,8 @@ El objetivo principal de este proyecto es realizar un análisis detallado de los
 
 memoria_extendida_con_codigo_EDA_Fernando_Manzano: Memoria en Jupyter Notebook con el código utilizado para realizar el análisis exploratorio de datos y el proceso utilizado incluyendo una introducción, objetivos, metodología, resultados y conclusiones del análisis.
 
+EDA presentacion.pdf: presentación de este EDA para el bootcamp Data Science de The Bridge
+
 ## Resultados y Conclusiones
 
 El análisis exploratorio de datos reveló varias tendencias y patrones interesantes:
